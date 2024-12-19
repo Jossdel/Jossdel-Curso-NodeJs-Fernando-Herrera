@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.17.6",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "get-age": "^1.0.1",
+    "uuid": "^11.0.3"
+  },
+  "scripts": {
+    "start": "nodemon fundamentos/app4.ts",
+    "dev": "nodemon js-foundation/app-1.js"
+  },
+  "name": "nodejs-devdetalles",
+  "version": "0.0.1",
+  "description": "Esta es mi primera aplicacion real de node",
+  "main": "app.js",
+  "author": "josue delgadillo",
+  "license": "ISC",
+  "dependencies": {
+   
+  }
+}
